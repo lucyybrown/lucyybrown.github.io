@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Two Approaches for Register-based Population Size Estimation: Individual-level and Population-level<br />University of St Andrews, Scotland; St Andrews, Scotland, UK",
+    56.3403902,
+    -2.7955844
+  ],
+  [
     "A Capture-Recapture Model with Temporary Emigration for Estimating Population Size from Incomplete Registers<br />Elite Hotel Carolina Tower, Stockholm, Sweden; Stockholm, Sweden",
     59.3251172,
     18.0710935
