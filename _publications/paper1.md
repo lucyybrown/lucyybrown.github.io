@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/
 excerpt: ''
-date: 2026
+date: 2026-01-01
 venue: 'Journal'
 paperurl: ''
 bibtexurl: ''
