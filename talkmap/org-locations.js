@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A Capture-Recapture Model with Temporary Emigration for Estimating Population Size from Incomplete Registers<br />Elite Hotel Carolina Tower, Stockholm, Sweden; Stockholm, Sweden",
+    59.3251172,
+    18.0710935
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
