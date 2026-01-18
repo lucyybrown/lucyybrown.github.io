@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "A Capture-Recapture Model with Temporary Emigration for Estimating Population Size from Incomplete Registers<br />Centre for Biomathematics, Swansea University; Swansea, Wales, UK",
+    51.6195955,
+    -3.9459248
   ]
 ];
