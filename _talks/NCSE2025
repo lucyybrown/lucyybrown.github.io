@@ -1,0 +1,16 @@
+---
+title: "Two Approaches for Register-based Population Size Estimation: Individual-level and Population-level"
+collection: talks
+type: "Talk"
+permalink: /talks/NCSE2025
+venue: "University of St Andrews, Scotland"
+date: 2025-12-18
+location: "St Andrews, Scotland, UK"
+slides_url: "https://lucyybrown.github.io/files/LucyBrown_NCSE.pdf"
+---
+
+Presentation at the National Centre for Statistical Ecology (NCSE) Meeting 2025 in St Andrews. 
+
+## Abstract
+Accurate estimation of population size is essential for policymaking, resource allocation and research. However, traditional censuses are sometimes infeasible, often expensive and have poor uptake, which has led to an increasing number of countries adopting a register-based approach to either replace or complement censuses. We have proposed a novel approach to estimate the true population size from register data, building on capture-recapture (CR) models, with a hidden Markov model (HMM) formulation, providing an efficient model-fitting framework. The model accounts for temporary emigration and incorporates an arbitrary number of, possibly interacting, observation registers. While the application offers new insights into population dynamics and individual trajectories, there are possible concerns about computational time as we work at an individual-level. As an alternative, we propose working at a population-level with a model based in MSE but extended to allow knowledge exchange over time, creating a longitudinal approach. Instead of using log-linear models for contingency tables, we consider latent class models (LCMs) which by design assume individuals belong to two (or more) latent classes, each of which behave differently in the observation process. We illustrate both approaches using Swedish population registers where issues of overcoverage - individuals registered as living in the country but no longer living there - provide motivation for this project and highlight the need for accurate estimation.
+[**[Download Slides]({{ page.slides_url }})**]
