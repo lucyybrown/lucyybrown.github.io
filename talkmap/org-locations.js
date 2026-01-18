@@ -10,9 +10,9 @@ var addressPoints = [
     18.0710935
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Estimating Population Size from Register Data: a Capture-Recapture Approach<br />Statistics Norway, Oslo, Norway; Oslo, Norway",
+    59.9133301,
+    10.7389701
   ],
   [
     "A Capture-Recapture Model with Temporary Emigration for Estimating Population Size from Incomplete Registers<br />Centre for Biomathematics, Swansea University; Swansea, Wales, UK",
