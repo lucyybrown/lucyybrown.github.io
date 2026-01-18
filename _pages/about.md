@@ -13,8 +13,7 @@ I completed an MMath at the University of Dundee in 2023, achieving a First Clas
 
 My work focuses on population size estimation using official administrative register data, provided through collaborations with [Stockholm University Demography Unit (SUDA)](https://www.su.se/english/research/research-catalogue/research-groups/2/stockholm-university-demography-unit-suda), [Statistics Sweden](https://www.scb.se/en/) and [Statistics Norway](https://www.ssb.no/en). As part of this work, I utilise well-established statistical ecology models with extensions to improve accuracy of population size estimation. 
 
-Academic Interests
-----------------------
+### Academic Interests
 * Population Size Estimation
 * Administrative Register Data
 * Capture-Recapture Models
