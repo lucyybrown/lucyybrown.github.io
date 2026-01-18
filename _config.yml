@@ -23,7 +23,7 @@ repository               : "lucyybrown/lucyybrown.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IDphoto.jpg"
   name             : "Lucy Brown"
   pronouns         : "she/her"  
   bio              : "Statistics PhD Student at University of Kent"
