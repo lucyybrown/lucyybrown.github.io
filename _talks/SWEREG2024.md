@@ -6,7 +6,7 @@ permalink: /talks/SWE-REG
 venue: "Elite Hotel Carolina Tower, Stockholm, Sweden"
 date: 2024-12-02
 location: "Stockholm, Sweden"
-slides_url: "https://lucyybrown.github.io/files/Stockholm Slides.pdf"
+slides_url: "https://lucyybrown.github.io/files/StockholmSlides.pdf"
 ---
 
 Presentation at the The Swedish Register-Based Research Summit in Stockholm in December 2024. 
