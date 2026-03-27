@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/HMM_CR
 excerpt: ''
 date: 2026-03-26
-venue: ''
+venue: 'TBC'
 paperurl: 'https://arxiv.org/abs/2603.24643'
 bibtexurl: '@misc{brown2026capturerecapturehiddenmarkovmodel,
       title={A capture-recapture hidden Markov model framework for register-based inference of population size and dynamics}, 
