@@ -17,7 +17,7 @@ Education
   * Level 4 Project: "Dundee by Numbers: Examining the Attainment Gap", supervisor: Dr Eric Hall
   * Level 5 Project: "Rogue Waves in the Ocean", supervisor: Dr Agissilaos Athanassoulis
 
-Work experience
+Employment
 ======
 * September 2024 - Present: Sessional Demonstrator
   * University of Kent, School of Engineering, Mathematics and Physics
@@ -33,7 +33,7 @@ Work experience
   * University of Dundee, School of Science and Engineering
   * Aided in the running of workshops/tutorials for multiple level 1 and 2 maths modules
   * Ran Maths Café one day a week where undergraduate students from any discipline could come with maths-related questions
-  * Typed lecture notes for a module, ensuring key deadlines throughout the semester were met
+  * Typed lecture notes, ensuring key deadlines throughout the semester were met
 
 Publications
 ======
@@ -51,4 +51,5 @@ Memberships
 ======
 * Royal Statistical Society (RSS)
 * National Centre for Statistical Ecology (NCSE)
+* European Association for Population Studies (EAPS)
 
