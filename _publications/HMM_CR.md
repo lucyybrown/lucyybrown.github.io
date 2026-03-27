@@ -3,7 +3,6 @@ title: "A capture-recapture hidden Markov model framework for register-based inf
 collection: publications
 category: manuscripts
 permalink: /publication/HMM_CR
-excerpt: ''
 date: 2026-03-26
 venue: 'TBC'
 paperurl: 'https://arxiv.org/abs/2603.24643'
