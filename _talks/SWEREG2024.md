@@ -1,7 +1,7 @@
 ---
 title: "A Capture-Recapture Model with Temporary Emigration for Estimating Population Size from Incomplete Registers"
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/SWE-REG
 venue: "Elite Hotel Carolina Tower, Stockholm, Sweden"
 date: 2024-12-02
