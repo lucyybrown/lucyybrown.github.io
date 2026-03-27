@@ -20,7 +20,7 @@ Due to the sensitive and confidential nature of the data used in this paper, the
 The computations and data handling were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725.
 
 ## Funding
-This research was supported by the Swedish Research Council (VR), grant number 2021-00875. 
-The first author was supported by a doctoral scholarship from the Migration and Movement Signature Research Theme, University of Kent. 
-The third author was partially financed by national funds through FCT - Funda ̧c ̃ao para a Ciˆencia e a Tecnologia under the projects UID/00006/2025 and UID/PRR/00006/2025.
+* This research was supported by the Swedish Research Council (VR), grant number 2021-00875. 
+* The first author was supported by a doctoral scholarship from the Migration and Movement Signature Research Theme, University of Kent. 
+* The third author was partially financed by national funds through FCT - Funda ̧c ̃ao para a Ciˆencia e a Tecnologia under the projects UID/00006/2025 and UID/PRR/00006/2025.
 
