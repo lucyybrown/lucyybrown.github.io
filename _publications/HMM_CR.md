@@ -22,5 +22,5 @@ The computations and data handling were enabled by resources provided by the Nat
 ## Funding
 * This research was supported by the Swedish Research Council (VR), grant number 2021-00875. 
 * The first author was supported by a doctoral scholarship from the Migration and Movement Signature Research Theme, University of Kent. 
-* The third author was partially financed by national funds through FCT - Funda ̧c ̃ao para a Ciˆencia e a Tecnologia under the projects UID/00006/2025 and UID/PRR/00006/2025.
+* The third author was partially financed by national funds through FCT – Fundação para a Ciência e a Tecnologia under the projects UID/00006/2025 and UID/PRR/00006/2025.
 
