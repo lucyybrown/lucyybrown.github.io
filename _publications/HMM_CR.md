@@ -7,15 +7,6 @@ excerpt: ''
 date: 2026-03-26
 venue: 'TBC'
 paperurl: 'https://arxiv.org/abs/2603.24643'
-bibtexurl: '@misc{brown2026capturerecapturehiddenmarkovmodel,
-      title={A capture-recapture hidden Markov model framework for register-based inference of population size and dynamics}, 
-      author={Lucy Y Brown and Eleni Matechou and Bruno Santos and Eleonora Mussino},
-      year={2026},
-      eprint={2603.24643},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP},
-      url={https://arxiv.org/abs/2603.24643}, 
-}'
 citation: 'Brown, L. Y., Matechou, E., Santos, B., & Mussino, E. (2026). A capture–recapture hidden Markov model framework for register‑based inference of population size and dynamics. arXiv. https://arxiv.org/abs/2603.24643'
 ---
 Submitted to Annals of Applied Statistics.
